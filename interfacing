@@ -1,0 +1,32 @@
+arduino to lcd
+
+SDA A4
+SCL A5
+GND --
+VCC --
+
+keypad to arduino 
+
+c1 11
+c2  3
+c3  4
+c4  5
+r1  6
+r2  7
+r3  8
+r4  9
+
+
+controller to arduino
+
+IN3  12
+IN4  13
+ENA  10
+
+
+controller
+
+12 v -battery +ve
+gnd -battery -ve arduino grd sc 
+5v -vin arduino
+out 3 & OUT 4 - motor 
